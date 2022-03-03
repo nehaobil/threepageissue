@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+body
+{
+  background-color: #20B2AA;
+  font-family: "Futura";
+  color: white;
+  text-align: center;
+}
+h1
+{
+  font-size: 35px;
+}
+img
+{
+  width: 500px;
+  height: 200px;
+}
+a
+{
+  text-decoration: none;
+  target: _blank;
+}
